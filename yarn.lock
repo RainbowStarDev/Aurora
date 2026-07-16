@@ -143,10 +143,10 @@ chalk@^5.6.2:
   resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.6.2.tgz#b1238b6e23ea337af71c7f8a295db5af0c158aea"
   integrity sha512-7NzBL0rN6fMUW+f7A6Io4h40qQlG+xGmtMxfbnH/K7TAtt8JQWVQK+6g0UXKMeVJoyV5EkkNsErQ8pVD3bLHbA==
 
-discord-api-types@^0.38.1, discord-api-types@^0.38.33, discord-api-types@^0.38.40, discord-api-types@^0.38.48:
-  version "0.38.48"
-  resolved "https://registry.yarnpkg.com/discord-api-types/-/discord-api-types-0.38.48.tgz#305894ebecc26547693b70eb12894c38e064bd8b"
-  integrity sha512-WFUE/2o0lBlLeCQonQ+Pu2RqHAqbytBJ2RlXR91gzk05InSS6k9ShzzLYoymrA4c2oRgRKGE7/VqQJNNdGWSxQ==
+discord-api-types@^0.38.1, discord-api-types@^0.38.33, discord-api-types@^0.38.40, discord-api-types@^0.38.50:
+  version "0.38.50"
+  resolved "https://registry.yarnpkg.com/discord-api-types/-/discord-api-types-0.38.50.tgz#0a4fbc2903aafab6a92a67a7ec2ad62133c24ab6"
+  integrity sha512-J2n/bpIETX3DQ6AJ7/0xbsTLmYiJQtO/LKcXKC1YDbB56OUwtDbdXOFE8Q4g8jVGHBR2VAy1+D4ngaIgkMNV9w==
 
 discord.js@^14.26.4:
   version "14.26.4"
